@@ -18,11 +18,9 @@ non-linear transformation.
 
 ## Transformation
 
-Each NO₂ value \(x\) is transformed into \(z\) using a non-linear function:
-
-\[
+Each NO₂ value (x) is transformed into z using a non-linear function:
 z = x + a_r \sin(b_r x)
-\]
+
 
 where:
 
