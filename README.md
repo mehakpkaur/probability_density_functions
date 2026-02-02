@@ -24,9 +24,9 @@ z = x + a_r \sin(b_r x)
 
 where:
 
-- \(a_r = 0.05 \times (r \bmod 7)\)
-- \(b_r = 0.3 \times (r \bmod 5 + 1)\)
-- \(r\) is the university roll number
+- (a_r = 0.05 x (r mod 7))
+- (b_r = 0.3 x (r mod 5 + 1)
+- r is the university roll number
 
 For this submission:
 - \(a_r = 0.25\)
