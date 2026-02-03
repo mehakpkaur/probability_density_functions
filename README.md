@@ -42,6 +42,8 @@ sample statistics (Method of Moments) on the transformed data.
 ---
 
 ## Output Values
+
+!(pdf_output.png)
 ## Estimated PDF Plot
 
 The following plot shows the empirical probability density function
