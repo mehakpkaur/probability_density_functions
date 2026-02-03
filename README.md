@@ -51,3 +51,11 @@ The following plot shows the empirical probability density function
 along with the estimated PDF.
 
 ![Estimated PDF Plot](pdf_plot.png)
+
+## Tools Used
+
+- Python  
+- NumPy  
+- Pandas  
+- Matplotlib
+
