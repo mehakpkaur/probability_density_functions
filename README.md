@@ -49,17 +49,35 @@ sample statistics (Method of Moments) on the transformed data.
 
 ## Estimated PDF Plot
 
-The following plot shows the empirical probability density function
-along with the estimated PDF.
-
 ![Estimated PDF Plot](pdf_plot.png)
+
+The figure illustrates the empirical probability density function of the transformed variable \(z\),
+obtained using a normalized histogram, along with the estimated parametric probability density function.
+The empirical distribution exhibits a prominent peak, while the smooth estimated curve closely follows
+the main trend of the data.
+
+The alignment between the empirical and estimated distributions indicates that the chosen probability
+density model effectively captures the dominant characteristics of the transformed NO₂ data.
+
 
 ---
 
-## Tools Used
+## Key Observations
 
-- Python  
-- NumPy  
-- Pandas  
-- Matplotlib
+- The empirical probability density of the transformed variable \(z\) shows a clear dominant peak, indicating a primary mode in the data.
+- The estimated parametric PDF closely follows the shape of the empirical distribution near the peak region.
+- Minor deviations in the tail region are expected due to the non-linear transformation applied to the original NO₂ values.
+- Overall, the estimated PDF provides a reasonable approximation of the underlying data distribution.
+
+---
+
+## Conclusion
+
+In this assignment, a roll-number-parameterized non-linear transformation was applied to NO₂ concentration values.
+The transformed data was modeled using a parametric probability density function, and the parameters were estimated
+using sample statistics.
+
+The comparison between the empirical distribution and the estimated PDF demonstrates that the chosen model
+adequately captures the main characteristics of the transformed data. This confirms the effectiveness of the
+parameter estimation approach for learning probability density functions from real-world data.
 
