@@ -19,7 +19,7 @@ non-linear transformation.
 ## Transformation
 
 Each NO₂ value (x) is transformed into z using a non-linear function:
-z = x + a_r \sin(b_r x)
+z = x + a_r sin(b_r x)
 
 
 where:
@@ -36,7 +36,7 @@ For this submission:
 
 ## Probability Density Function
 
-The transformed variable \(z\) is modeled using the following probability
+The transformed variable (z) is modeled using the following probability
 density function:
 
 \[
