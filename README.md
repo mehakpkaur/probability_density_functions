@@ -49,7 +49,6 @@ sample statistics (Method of Moments) on the transformed data.
 
 ## Estimated PDF Plot
 
-![Estimated PDF Plot](pdf_plot.png)
 
 The figure illustrates the empirical probability density function of the transformed variable \(z\),
 obtained using a normalized histogram, along with the estimated parametric probability density function.
@@ -58,6 +57,9 @@ the main trend of the data.
 
 The alignment between the empirical and estimated distributions indicates that the chosen probability
 density model effectively captures the dominant characteristics of the transformed NO₂ data.
+
+![Estimated PDF Plot](pdf_plot.png)
+
 
 
 ---
